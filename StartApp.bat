@@ -1,0 +1,1 @@
+start ./Lab2/bin/Debug/Lab2.exe
